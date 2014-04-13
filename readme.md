@@ -34,7 +34,7 @@ You can alter the message with `slack_edd_complete_purchase_message` filter. The
 
 1. You need to install and activate [Slack plugin](http://wordpress.org/plugins/slack) first.
 1. Then upload **Slack EDD** plugin to your blog's `wp-content/plugins/` directory and activate.
-1. You will see new event with text **When a payment in EDD is marked as complete** in integration setting.
+1. You will see new event type with text **When a payment in EDD is marked as complete** in integration setting. If checked then notification will be delivered once sales are made.
 
 ## Screenshots ##
 
